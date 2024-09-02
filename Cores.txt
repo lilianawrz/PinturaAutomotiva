@@ -1,0 +1,3 @@
+Primária: Azul Escuro (#1A237E)
+Secundária: Cinza Claro (#F5F5F5)
+Terciária: Dourado (#FFD700)
